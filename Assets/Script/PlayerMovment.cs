@@ -9,8 +9,6 @@ public class PlayerMovment : MonoBehaviour
     // Start is called before the first frame update
     public CharacterController2D controller;
     public Animator animator;
-    public int abdoWael;
-    public int abdowael;
 
     float horizontalMovement = 0f;
     float speed = 40f;
